@@ -40,3 +40,14 @@
 .read-the-docs {
   color: #888;
 }
+
+.starP{
+  position: relative;
+}
+
+.star{
+  position: absolute;
+  bottom: 460px;
+  color: white;
+  text-align: center;
+}
